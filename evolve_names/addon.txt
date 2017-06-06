@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"Functions for evolve color command (TTT)"
+	"version"		"1.0"
+	"up_date"		""
+	"author_name"		"Boopington"
+	"author_email"		""
+	"author_url"		""
+	"info"			"Kind of easy to figure out"
+}
